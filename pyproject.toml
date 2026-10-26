@@ -1,0 +1,13 @@
+[project]
+name = "fastapi-crashcourse"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard] (>=0.162.0,<0.163.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

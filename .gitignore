@@ -1,0 +1,4 @@
+.vscode/
+my_venv/
+poetry.lock
+__pycache__/
